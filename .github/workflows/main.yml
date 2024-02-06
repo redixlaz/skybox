@@ -30,6 +30,3 @@ jobs:
           git add -A
           git commit -m "updated streams"
           git push
-
-        
-        
