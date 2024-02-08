@@ -6,6 +6,11 @@
     },
     "channels": [
         {
+            "name": "MC TV",
+            "slug": "mctv",
+            "url": "https://oneotv.online/live/tr-mc-eu-live-tv/"
+        },
+        {
             "name": "24 TV",
             "slug": "24tv",
             "url": "https://www.youtube.com/@YirmidortTV/live"
