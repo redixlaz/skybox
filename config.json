@@ -6,9 +6,9 @@
     },
     "channels": [
         {
-            "name": "MC TV",
-            "slug": "mctv",
-            "url": "https://oneotv.online/live/tr-mc-eu-live-tv/"
+            "name": "UN TV",
+            "slug": "untv",
+            "url": "https://www.canlitv.day/un-tv-konya"
         },
         {
             "name": "24 TV",
